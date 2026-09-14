@@ -1,0 +1,26 @@
+Alex Johnson
+alex.johnson@email.com | (555) 123-4567 | Austin, TX
+linkedin.com/in/alexjohnson | github.com/alexjohnson
+
+Summary
+Motivated Data Analyst with hands-on experience turning raw data into
+actionable business insights using Python and SQL.
+
+Experience
+Data Analyst Intern - BrightMetrics Inc.
+Analyzed sales data using Python and Pandas, increasing reporting accuracy by 20%.
+Built interactive dashboards in Power BI used weekly by 5 department heads.
+Automated a manual reporting process, reducing turnaround time by 30%.
+
+Projects
+Sales Dashboard
+Built a Power BI dashboard visualizing regional sales trends for 3 years of data.
+
+Customer Churn Analysis
+Used Python, Pandas, and Statistics to identify key churn drivers for a subscription business.
+
+Education
+B.Tech in Computer Science, University of Texas, 2024
+
+Skills
+Python, Excel, SQL, Power BI, Pandas, Statistics, Data Visualization
